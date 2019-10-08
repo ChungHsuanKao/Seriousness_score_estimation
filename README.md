@@ -14,3 +14,14 @@ However, they notice a new business problem happened after the screening process
 3. Im-balanced learn: Resamling tools
 4. GitHub: Version control
 5. Flask: Demo
+
+## Files
+1. [Final] Unsuprvising learning.ipynb: 
+Dataset: User information + features from message data (10,535 datapoints)
+Analysis: Visualize resampling-data, compare resuls from different models
+2. PCA_original10534_additional258.ipynb
+Dataset: User information + features from message data (10,535 + additional 120 datapoints)
+Analysis: Visualize data
+3. Basline modeling.ipynb, Merge_modeling.ipynb:
+Compare user information only to user information + features from message data in modeling
+The comparision indcludes different resampling tools.
