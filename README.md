@@ -17,11 +17,11 @@ However, they notice a new business problem happened after the screening process
 
 ## Files
 1. [Final] Unsuprvising learning.ipynb: <br />
-Dataset: User information + features from message data (10,535 datapoints)
+Dataset: User information + features from message data (10,535 datapoints) <br />
 Analysis: Visualize resampling-data, compare resuls from different models
 2. PCA_original10534_additional258.ipynb: <br />
-Dataset: User information + features from message data (10,535 + additional 120 datapoints)
+Dataset: User information + features from message data (10,535 + additional 120 datapoints) <br />
 Analysis: Visualize data
 3. Basline modeling.ipynb, Merge_modeling.ipynb: <br />
-Compare user information only to user information + features from message data in modeling
+Compare user information only to user information + features from message data in modeling <br />
 The comparision indcludes different resampling tools.
